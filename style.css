@@ -12,6 +12,7 @@
    font-size: 70px;
    font-family: "Courier New";
    color: blue;
+  
  }
  
  
@@ -19,10 +20,12 @@
       padding: 10px;
       background: rgba(0,0,0,0.5);
       font-family: "Courier New";
+   
     }
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
+      background: blue;
   
     }
     div{
@@ -30,8 +33,9 @@
       padding: 30px;
       margin: 0 auto;
       font-family: "Courier New";
+      background: pink;
     }
-    @media (max-width: 5000x) {
+     @media (max-width: 5000x){
      
       li {
         padding: 10px;
