@@ -9,7 +9,7 @@ $("#mood-3").click(function(){
     $("#mood-3").attr("src", "https://media.giphy.com/media/i8Q2TfHNvAdfW/giphy.gif");
 });
 $("#mood-4").click(function(){
-    $("#mood-4").attr("src", "https://media.giphy.com/media/jeLdZuzcmIQgg/giphy.gif");
+    $("#mood-4").attr("src", "https://media.giphy.com/media/HrBB5H79xE6Ji/giphy.gif");
 });
 
 $("#mood-5").click(function(){
